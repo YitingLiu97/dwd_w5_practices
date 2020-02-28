@@ -1,0 +1,15 @@
+{
+  "name": "back-end-foundations-workbook-solutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yiting",
+  "license": "ISC",
+  "dependencies": {
+    "food-words": "^1.1.0",
+    "metal-name": "^1.3.1"
+  }
+}
